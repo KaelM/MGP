@@ -7,7 +7,7 @@ html {
   padding: 0;
 }
 body {
-  background-color: black;
+  background-color: white;
 }
 nav {
   width: 100%;
@@ -57,7 +57,7 @@ nav {
 }
 
 p { 
-  color: white; 
+  color: black; 
   font-family: Arial;
 }
 
