@@ -26,25 +26,26 @@ nav {
 }
 
 .nav-links {
-  background-color: grey;
+  background-color: white;
   list-style: none;
   display: flex;
+  border-color: black;
 }
 
 .nav-item a {
   display: inline-block;
   padding: 10px 15px;
   text-decoration: none;
-  color: white;
+  color: black;
   font-family: arial; 
 }
 
 .nav-item:hover {
-  background-color: white;
+  background-color: black;
 }
 
 .nav-item:hover a {
-  color: black;
+  color: white;
 }
 
 .logo img {
