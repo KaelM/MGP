@@ -53,9 +53,14 @@ nav {
 }
 
 .tab { 
-text-indent: 40px; 
+  text-indent: 40px; 
 }
 
 p { 
-color: white; 
+  color: white; 
+}
+
+.paragraphs {
+  margin-left: 50px;
+  margin-right: 50px;
 }
