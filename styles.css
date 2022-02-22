@@ -51,4 +51,11 @@ nav {
   width: 175px;
   vertical-align: middle;
 }
-.tab { text-indent:40px }
+
+.tab { 
+text-indent: 40px; 
+}
+
+p { 
+color: white; 
+}
