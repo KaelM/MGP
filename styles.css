@@ -11,14 +11,14 @@ body {
 }
 nav {
   width: 100%;
-  background-color: grey;
+  background-color: white;
   padding-left: 10px;
   padding-right: 10px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   gap: 10px;
-  
+  border-color: black;
 }
 
 .logo {
@@ -29,7 +29,6 @@ nav {
   background-color: white;
   list-style: none;
   display: flex;
-  border-color: black;
 }
 
 .nav-item a {
