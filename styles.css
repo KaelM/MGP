@@ -68,3 +68,9 @@ p {
 .spaceabove {
   margin-top: 40px;
 }
+@media screen and (max-width: 600px) {
+  .embed {
+    width: 400px;
+    height: 300px;
+  }
+}
