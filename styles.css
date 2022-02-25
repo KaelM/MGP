@@ -89,10 +89,10 @@ p {
     height: 400px;
   }
   .title {
-    font-size: 35px;
+    font-size: 2.1875em;
   }
   .name {
-    font-size: 13px;
+    font-size: 0.8125em;
   }
 }
 
