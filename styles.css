@@ -78,3 +78,10 @@ p {
     flex-wrap: wrap;
   }
 }
+@media screen and (max-width: 400px) {
+  .embed {
+    width: 200px;
+    height: 150px;
+  }
+}
+
