@@ -73,7 +73,8 @@ p {
     width: 400px;
     height: 300px;
   }
-  nav {
+  
+  .nav-links {
     flex-wrap: wrap;
   }
 }
