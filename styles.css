@@ -68,9 +68,12 @@ p {
 .spaceabove {
   margin-top: 40px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .embed {
     width: 400px;
     height: 300px;
+  }
+  nav {
+    flex-wrap: wrap;
   }
 }
