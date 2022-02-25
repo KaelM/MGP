@@ -106,5 +106,8 @@ p {
   .name {
     font-size: 25px;
   }
+  .paragraphs {
+    font-size: 11px;
+  }
 }
 
