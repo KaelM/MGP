@@ -24,10 +24,6 @@ nav {
   display: inline-block;
 }
 
-.logo:hover {
-  background-color: black;
-}
-
 .nav-links {
   background-color: #dcdcdc;
   list-style: none;
