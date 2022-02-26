@@ -81,6 +81,19 @@ p {
   font-size: 70px; 
   margin-left: 30px;
 }
+
+.teacher {
+  font-family: Arial; 
+  font-size: 40px;
+  margin-left: 30px;
+}
+
+.date {
+  font-family: Arial; 
+  font-size: 30px;
+  margin-left: 30px;
+}
+
 @media screen and (max-width: 800px) {
   .embed {
     width: 400px;
@@ -95,6 +108,12 @@ p {
   .name {
     font-size: 40px;
   }
+  .teacher {
+    font-size: 25px;
+  }
+  .date {
+    font-size: 20px;
+  }
 }
 @media screen and (max-width: 400px) {
   .embed {
@@ -106,6 +125,12 @@ p {
   }
   .name {
     font-size: 25px;
+  }
+  .teacher {
+    font-size: 15px;
+  }
+  .date {
+    font-size: 11px;
   }
   .paragraphs {
     font-size: 11px;
